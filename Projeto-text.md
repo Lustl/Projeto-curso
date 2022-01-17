@@ -1,24 +1,3 @@
-#include <stdlib.h>
-#include <iostream>
-#include <string>
-
-using namespace std;
-
-int main (){
-  int i,o;
-
-  cout << " Informe o valor de i:";
-  cin >> i;
-  cout << " Informe o valor de o:";
-  cin >> o;
-
-  cout << " Valores de i de o são: " << i <<" - " << o;
-
-
-
-
-
-
-
-
-}
+# Git curso
+Este é um repositorio teste para ensinar como git funciiona.i
+[![paypal](www.paypalobjects.com/ns_US/i/btn_donateCC_LG.gif)](https://www.paypal.com;cgi0bin/webscr?cmd=_S-xclick&hosted_button)id-UTMFZUHX6EUG3)
